@@ -1,0 +1,22 @@
+{
+  "name": "glucodyn",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kenstack/glucodyn.git"
+  },
+  "author": "Ken Stack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kenstack/glucodyn/issues"
+  },
+  "dependencies": {
+    "express": "~4.11.0"
+  },
+  "devDependencies": {}
+}
